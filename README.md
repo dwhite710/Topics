@@ -6,7 +6,7 @@ The course syllabus (and setup instructions) can be found
 
 
 
-
+ 
 ### Week 12: 5/9 - 5/13
 
 * **Friday 5/13** Note on the ethics of Open Data Science
